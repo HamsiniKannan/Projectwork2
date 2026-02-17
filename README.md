@@ -1,4 +1,4 @@
-## Flood Sense and Response : A Hybrid Flood Prediction and Detection System
+## FloodGuard: An AI-Driven Hybrid Flood Prediction and Detection System for RealTime Disaster Response
 Flood disasters pose a recurring and escalating threat in many regions of India, driven by climate change, unplanned urbanization, and inadequate early-warning mechanisms. AI-Driven Flood Detection and Prediction System with Intelligent Alerting (Flood sense and response), aims to address these challenges by leveraging artificial intelligence, modern web technologies, and automated communication platforms. The system analyzes environmental and scenario-based inputs to detect potential flood conditions and predict risk levels using machine learning models. A web-based dashboard enables users to interact with the system, submit flood-related parameters, and receive AI-generated interpretations of flood scenarios. 
 
 ## About
